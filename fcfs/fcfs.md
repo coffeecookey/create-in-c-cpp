@@ -33,4 +33,5 @@ gcc fcfs.c -o fcfs
 ```
 
 2. Run the file
+
 `./fcfs`
