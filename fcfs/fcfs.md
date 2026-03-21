@@ -27,8 +27,10 @@ I saw a lot of versions of this online, I tried to implement the version that I 
 
 Steps to run - 
 1. compile the file 
-```cd fcfs
-gcc fcfs.c -o fcfs```
+```
+cd fcfs
+gcc fcfs.c -o fcfs
+```
 
 2. Run the file
 `./fcfs`
